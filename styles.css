@@ -17,7 +17,7 @@ header{
 }
 
 .card-content {
-    position: relative;
+    /* position: relative; */
     display: inline-block;
     overflow: hidden;
     border-radius: 8px;
